@@ -1,6 +1,6 @@
 {
-  "name": "ekyc-web-npm",
-  "version": "1.0.0",
+  "name": "vnpt-ekyc-web",
+  "version": "1.0.1",
   "description": "this is publish lib vnpt ekyc web",
   "main": "index.js",
   "scripts": {
