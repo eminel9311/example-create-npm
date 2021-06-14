@@ -1,1 +1,1 @@
-var ekycsdk;ekycsdk={};
+var ekycsdk;(()=>{var e={138:e=>{e.exports=()=>()=>{console.log("vnpt-ekyc-installed")}}},o={},r=function r(s){var t=o[s];return void 0!==t||(t=o[s]={exports:{}},e[s](t,t.exports,r)),t.exports}(138);ekycsdk=r})();
