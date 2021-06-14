@@ -1,6 +1,7 @@
 
-module.exports = () => {
+module.exports = (str) => {
   
 
-  return console.log('vnpt-ekyc-web started');
+  return `💩${str}💩`;
+
 }
