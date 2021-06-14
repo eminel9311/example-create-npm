@@ -1,1 +1,1 @@
-var ekycsdk;(()=>{var e={138:e=>{e.exports=()=>()=>{console.log("vnpt-ekyc-installed")}}},o={},r=function r(s){var t=o[s];return void 0!==t||(t=o[s]={exports:{}},e[s](t,t.exports,r)),t.exports}(138);ekycsdk=r})();
+var ekycsdk;(()=>{var e={138:e=>{e.exports=()=>console.log("vnpt-ekyc-web started")}},r={},o=function o(t){var s=r[t];return void 0!==s||(s=r[t]={exports:{}},e[t](s,s.exports,o)),s.exports}(138);ekycsdk=o})();
