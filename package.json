@@ -1,0 +1,17 @@
+{
+  "name": "ekyc-web-npm",
+  "version": "1.0.0",
+  "description": "this is publish lib vnpt ekyc web",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node_modules/webpack/bin/webpack.js --mode production --watch --progress",
+    "build": "node_modules/webpack/bin/webpack.js --mode production --progress"
+  },
+  "author": "Bui Hong Quan",
+  "license": "ISC",
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
